@@ -2,11 +2,9 @@
 # 📊 Power BI Business Intelligence Dashboard
 
 ## 🔍 Short Description
-This Power BI project implements an **end-to-end business intelligence solution** using structured data modeling, DAX measures, and interactive visualizations.  
-Data was cleaned and transformed using **Power Query (ETL)**, followed by the creation of a **Star Schema data model** to optimize performance and relationships.
+This Power BI project implements an **end-to-end business intelligence solution** using structured data modeling, DAX measures, and interactive visualizations. Data was cleaned and transformed using **Power Query (ETL)**, followed by the creation of a **Star Schema data model** to optimize performance and relationships.
 
-Key KPIs such as **Total Revenue**, **Gross Margin**, **Year-over-Year (YoY) Growth**, and **Category-wise Performance** were calculated using **DAX functions**.  
-The final dashboard enables **drill-down analysis**, **dynamic filtering**, and **trend analysis**, supporting accurate and data-driven business decisions using Power BI.
+Key KPIs such as **Total Revenue**, **Gross Margin**, **Year-over-Year (YoY) Growth**, and **Category-wise Performance** were calculated using **DAX functions**. The final dashboard enables **drill-down analysis**, **dynamic filtering**, and **trend analysis**, supporting accurate and data-driven business decisions using Power BI.
 
 ---
 
